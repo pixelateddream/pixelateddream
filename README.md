@@ -1,7 +1,8 @@
 -  Hi, I’m ☆
--  I’m a Junior Software Developer, specialised in Web and App Development.
+-  I’m a Junior Software Engineer, specialised in Web and App Development.
 -  I’m currently learning Cloud Engineering - specifically Google Cloud and Amazon Web Services (AWS).
--  Python, JS, HTML, CSS - learning SQL and Java.
+-  Working towards AWS Executive professional cert.
+-  Python, JS, HTML, CSS and Linux Master - learning SQL and Java.
 -  Willing to collab on Web/App projects for practice :)
 
 <!---
