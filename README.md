@@ -1,9 +1,11 @@
-![image](https://github.com/pixelateddream/pixelateddream/assets/151104838/65683cdb-1da6-4d66-875a-c07fa41041d5)
+![starry-gif](https://github.com/pixelateddream/pixelateddream/assets/151104838/deeb7090-3e29-4ba7-b883-c5c4ba7ccc7f) ![starry-gif](https://github.com/pixelateddream/pixelateddream/assets/151104838/deeb7090-3e29-4ba7-b883-c5c4ba7ccc7f) 
+
+
 -  Hi, I’m ☆
--  I’m a Junior Software Engineer, specialised in Web and App Development.
--  I’m currently learning Cloud Engineering - specifically Google Cloud and Amazon Web Services (AWS).
+-  Specialised in Software Engineer, specifically Web and App Development.
+- I’m currently learning Cloud Engineering - specifically Google Cloud and Amazon Web Services (AWS).
 -  Working towards AWS Executive professional cert.
--  Python, JS, HTML, CSS and Linux Master - learning SQL and Java.
+-  Python, JS (react, node, jquery, next, angular), HTML, CSS, Linux Master, SQL.
 -  Willing to collab on Web/App projects for practice :)
 
 <!---
