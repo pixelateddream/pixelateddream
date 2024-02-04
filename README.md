@@ -1,3 +1,4 @@
+![image](https://github.com/pixelateddream/pixelateddream/assets/151104838/65683cdb-1da6-4d66-875a-c07fa41041d5)
 -  Hi, I’m ☆
 -  I’m a Junior Software Engineer, specialised in Web and App Development.
 -  I’m currently learning Cloud Engineering - specifically Google Cloud and Amazon Web Services (AWS).
