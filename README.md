@@ -2,7 +2,7 @@
 
 
 -  Hi, I’m ☆
--  Specialised in Software Engineer, specifically Web and App Development.
+-  Specialised in Software Engineering, specifically Web and App Development.
 - I’m currently learning Cloud Security Engineering - specifying in Google Cloud and Amazon Web Services (AWS).
 -  Working towards AWS Executive professional cert.
 -  Willing to collab on Web/App projects for practice :)
